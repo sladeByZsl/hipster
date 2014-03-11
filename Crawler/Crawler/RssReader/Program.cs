@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Crawler
+namespace RssReader
 {
     static class Program
     {
@@ -19,6 +19,4 @@ namespace Crawler
             Application.Run(new Form1());
         }
     }
-
-    
 }
